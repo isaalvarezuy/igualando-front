@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+  font-family: 'HK grotesk';
+  font-weight: 400;
+  src: url(./components/fonts/HKGrotesk-Regular.otf)
+}
+@font-face {
+  font-family: 'HK grotesk';
+  font-weight: 600;
+  src: url(./components/fonts/HKGrotesk-SemiBold.otf)
+}
+@font-face {
+  font-family: 'HK grotesk';
+  font-weight: 700;
+  src: url(./components/fonts/HKGrotesk-Bold.otf)
+}
+@font-face {
+  font-family: 'Bison';
+  font-weight: 400;
+    src: url(./components/fonts/Bison.ttf)
+}
+}
+
+

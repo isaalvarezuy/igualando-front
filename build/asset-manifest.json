@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/igualando-build/static/css/main.2f55982e.chunk.css",
+    "main.js": "/igualando-build/static/js/main.80002fb4.chunk.js",
+    "main.js.map": "/igualando-build/static/js/main.80002fb4.chunk.js.map",
+    "runtime-main.js": "/igualando-build/static/js/runtime-main.cbe65666.js",
+    "runtime-main.js.map": "/igualando-build/static/js/runtime-main.cbe65666.js.map",
+    "static/js/2.6d772ff5.chunk.js": "/igualando-build/static/js/2.6d772ff5.chunk.js",
+    "static/js/2.6d772ff5.chunk.js.map": "/igualando-build/static/js/2.6d772ff5.chunk.js.map",
+    "static/js/3.6d943366.chunk.js": "/igualando-build/static/js/3.6d943366.chunk.js",
+    "static/js/3.6d943366.chunk.js.map": "/igualando-build/static/js/3.6d943366.chunk.js.map",
+    "index.html": "/igualando-build/index.html",
+    "static/css/main.2f55982e.chunk.css.map": "/igualando-build/static/css/main.2f55982e.chunk.css.map",
+    "static/js/2.6d772ff5.chunk.js.LICENSE.txt": "/igualando-build/static/js/2.6d772ff5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/igualando-build/static/media/HKGrotesk-SemiBold.50deb088.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe65666.js",
+    "static/js/2.6d772ff5.chunk.js",
+    "static/css/main.2f55982e.chunk.css",
+    "static/js/main.80002fb4.chunk.js"
+  ]
+}

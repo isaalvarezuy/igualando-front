@@ -40,7 +40,7 @@ const StoriesContenedor = (props) => {
 
     return (
         <div className="bg-black-50 overflow-hidden" style={{ maxHeight: `${alturaForm}px` }}>
-            <div className="bg-black-50 w-screen overflow-hidden p-4  md:p-0 md:w-10/12 mx-auto pt-32 w-10/12 mx-auto">
+            <div className="bg-black-50 w-screen overflow-hidden p-4  md:p-0 md:w-10/12 mx-auto pt-32 lg:pt-48  w-10/12 mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div className="col-span-1">
                         <div className="mb-6 col-span-1">

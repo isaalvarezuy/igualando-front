@@ -18,7 +18,7 @@ export const initialState = {
         { nombre: "Mariana Alvarez", rol: "Periodista deportivo", chiste: "Y los resultados son...", foto: "https://res.cloudinary.com/isita/image/upload/v1636928040/static/Avatars_web_2x-4_kskzfv.png" },
     ],
     usuarioLogueado: "",
-    url: "http://localhost:3001",
+    url: "https://igualando.herokuapp.com",
     fondos: [
         { id: 1, src: "https://res.cloudinary.com/isita/image/upload/v1641861366/static/fondos/Property_1_2_cas5lb.png" },
         { id: 2, src: "https://res.cloudinary.com/isita/image/upload/v1641861366/static/fondos/Property_1_3_wu8a5t.png" },
@@ -31,4 +31,5 @@ export const initialState = {
 
 }
 
-/* https://igualando.herokuapp.com/ */
+/* https://igualando.herokuapp.com */
+/* http://localhost:3001 */
